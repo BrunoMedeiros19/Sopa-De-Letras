@@ -1,6 +1,6 @@
 # Word Search
 
-****This program was made using Visual Studio and written using C++ language.**
+**This program was made using Visual Studio and written using C++ language.**
 
 
 ## Features:
@@ -9,3 +9,5 @@
 - **`DONE`** Possibility to write in the ***.txt*** the words that we want to appear in the word search.
 - **`DONE`** Generation of words in three different forms: **Vertical**, **Horizontal** and **Diagonal**.
 - **`DONE`** Multiple levels of difficulty.
+
+Thanks for reading! :smile:
