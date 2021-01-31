@@ -1,6 +1,6 @@
 # Word Search
 
-**This program was made using Visual Studio and written using C++ language.**
+**This program was made using Visual Studio and written in C++ language.**
 
 
 ## Features:
