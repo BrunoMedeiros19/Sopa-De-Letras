@@ -1,4 +1,4 @@
-# Sopa-De-Letras
+# Sopa De Letras
 
 ## Features:
 - Geração de uma matriz de caracteres aleatória a cada executação.
