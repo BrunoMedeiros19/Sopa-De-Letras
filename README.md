@@ -1,8 +1,6 @@
 # Word Search :computer:	
 
 **This program was made using Visual Studio and written in C++ language. The purpuse of this game it's to find the missing words.** 
-### ***Have fun! :stuck_out_tongue_winking_eye:*** 
-
 
 ## Features:
 
@@ -12,4 +10,5 @@
 - **`DONE`** Table with the words found at the moment.
 - **`DONE`** Multiple levels of difficulty.
 
+### ***Have fun! :stuck_out_tongue_winking_eye:*** 
 Thanks for reading! :smile:
